@@ -1,0 +1,68 @@
+{
+  "customer": [
+    {
+      "id": "1",
+      "username": "usernametest1",
+      "password": "test1",
+      "name": "Test1",
+      "savings": "100",
+      "current": "15"
+    },
+    {
+      "id": "2",
+      "username": "test2",
+      "password": "test2",
+      "name": "Test2",
+      "savings": "0",
+      "current": "0"
+    },
+    {
+      "id": "3",
+      "username": "test3",
+      "password": "test3",
+      "name": "test3",
+      "savings": "0",
+      "current": "0"
+    },
+    {
+      "id": "4",
+      "username": "test4",
+      "password": "test4",
+      "name": "test4",
+      "savings": "0",
+      "current": "0"
+    },
+    {
+      "id": "5",
+      "username": "test5",
+      "password": "test5",
+      "name": "test5",
+      "savings": "0",
+      "current": "0"
+    },
+    {
+      "id": "6",
+      "username": "test6",
+      "password": "test6",
+      "name": "test6",
+      "savings": "0",
+      "current": "0"
+    },
+    {
+      "id": "eVzGUzi",
+      "username": "",
+      "password": "",
+      "name": "",
+      "savings": "0",
+      "current": "0"
+    },
+    {
+      "id": "7",
+      "username": "test7",
+      "password": "test7",
+      "name": "test7",
+      "savings": "0",
+      "current": "0"
+    }
+  ]
+}
